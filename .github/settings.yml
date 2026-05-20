@@ -1,7 +1,7 @@
 repository:
   name: .github
   description: Intelligent platform for improve RISC-V software ecosystem.
-  private: true
+  private: false
   topics:
     - RISC-V
     - ai
